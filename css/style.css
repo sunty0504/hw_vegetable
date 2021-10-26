@@ -1,0 +1,251 @@
+html {
+    background-color: #edf2c5;
+    width: 1260px;
+    height: 940px;
+    margin: 0px auto;
+    text-align: center;
+    padding: 0px;
+}
+
+header {
+    width: 940px;
+    margin: auto;
+}
+
+.title {
+    width: 940px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Vegetables {
+    width: 271px;
+    height: 62px;
+    font-family: Arial;
+    font-size: 44px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+    margin: 36px 0px 5px 0px;
+}
+
+.title_btn{
+    margin-top: 60px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btn_facebook {
+    width: 25px;
+    height: 25px;
+    object-fit: contain;
+    margin: 0px 5px;
+}
+
+.btn_instagram {
+    width: 25px;
+    height: 25px;
+    object-fit: contain;
+    margin: 0px 5px;
+}
+
+.line_login {
+    width: 1px;
+    height: 25px;
+    background-color: #778a50;
+    margin: 0px 5px;
+}
+
+.btn_LOGIN_box {
+    width: 60px;
+    height: 25px;
+    border: solid 1px #778a50;
+    border-radius: 3px;
+    margin: 0px 5px;
+}
+
+.btn_JOIN_box {
+    width: 49px;
+    height: 25px;
+    border: solid 1px #778a50;
+    border-radius: 3px;
+    margin: 0px 5px;
+}
+
+.title_btn p {
+    width: 46px;
+    height: 15px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 2;
+    color: #778a50;
+    margin: auto;
+}
+
+.nav_box {
+    width: 940px;
+    height: 44px;
+    border-radius: 3px;
+    background-color: #778a50;
+    margin: 0px;
+}
+
+.nav_box ul {
+    display: flex;
+    padding: 0px;
+    margin: 0px
+}
+
+.nav_box ul li {
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    margin: 10px 30px;
+    list-style: none;
+}
+
+main{
+    width: 940px;
+    margin: auto;
+}
+
+.main_pic{
+    width: 940px;
+    height: 448px;
+    object-fit: contain;
+    margin: 20px 0px 30px 0px;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left_content {
+    margin-top: 0px;
+}
+
+.vegcontact_content {
+    width: 444px;
+    height: 45px;
+    border-radius: 3px;
+    background-color: #778a50;
+}
+
+.vegcontact_content p{
+    width: 98px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    margin: 0px;
+    padding: 10px 316px 12px 30px;
+}
+
+.left_img_box{
+    display: flex;
+    width: 444px;
+    height: 140px;
+    margin: 15px 0px 35px 0px;
+}
+
+.img_vegetables{
+    width: 140px;
+    height: 140px;
+    object-fit: contain;
+}
+
+.right_text_box {
+    width: 444px;
+    height: 140px;
+    background-color: #f7fbda;
+    margin-top: 15px;
+}
+
+.right_text{
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7d7d7d;
+    padding: 15px;
+    margin: 0;
+}
+
+.For-any-questions-or-suggestions-about-Vegetables-Vegetables-Club-or-your-online-order-you-can-contact-Vegetables-Customer-Service-by-phone-email-or-post-and-well-be-happy-to-help {
+  width: 414px;
+  height: 44px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7d7d7d;
+}
+
+.contact_line {
+    width: 414px;
+    height: 1px;
+    background-color: #7d7d7d;
+    margin: 0px 0px 0px 15px;
+}
+
+.E-mail-Vegetablesaaabbccccom-PHONE-886-123-456-789 {
+  width: 197px;
+  height: 35px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7d7d7d;
+}
+
+.box_footer {
+    width: 1260px;
+    height: 60px;
+    background-color: #778a50;
+    display: flex;
+    justify-content: center;
+}
+
+.copyrights {
+    width: 301px;
+    height: 14px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
